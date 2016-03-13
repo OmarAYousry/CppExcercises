@@ -1,40 +1,7 @@
-========================================================================
-    CONSOLE APPLICATION : ConsoleApplication1 Project Overview
-========================================================================
+This file contains my own solutions to the C++ excercises found here:
 
-AppWizard has created this ConsoleApplication1 application for you.
+https://en.wikibooks.org/wiki/C%2B%2B_Programming/Exercises/Iterations
 
-This file contains a summary of what you will find in each of the files that
-make up your ConsoleApplication1 application.
+The page has its own solutions, a couple for each excercise, but I chose to add this here in case someone felt like they wanted to fiddle around with it or have it as a reference.
 
-
-ConsoleApplication1.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
-
-ConsoleApplication1.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
-
-ConsoleApplication1.cpp
-    This is the main application source file.
-
-/////////////////////////////////////////////////////////////////////////////
-Other standard files:
-
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named ConsoleApplication1.pch and a precompiled types file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
-
-/////////////////////////////////////////////////////////////////////////////
+The solutions are not perfect, and were solved in regards to how I understood the problem; if you feel that I did not fully solve an excercise, or feel that it could be done in a simpler way (that is not completely heinous to look at), feel free to contribute and you will be credited accordingly.
