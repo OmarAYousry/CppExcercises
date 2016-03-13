@@ -1,4 +1,4 @@
-This file contains my own solutions to the C++ excercises found here:
+This project contains my own solutions to the C++ excercises found here:
 
 https://en.wikibooks.org/wiki/C%2B%2B_Programming/Exercises/Iterations
 
